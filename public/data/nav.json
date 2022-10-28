@@ -1,0 +1,276 @@
+{
+  "R&dTools": {
+    "title": "研发工具",
+    "name": "R&dTools",
+    "nav": [
+      {
+        "icon": "./static/images/gitlab.png",
+        "name": "Gitlab",
+        "desc": "基于git的开源代码管理平台，使用域账号登录。",
+        "link": "http://gitlab.geespace/"
+      },
+      {
+        "icon": "./static/images/logo_header@2x.png",
+        "name": "Yapi",
+        "desc": "实用又强大的内部接口api 管理平台,需要人工开通账号。",
+        "link": "http://yapi.geespace/"
+      },
+      {
+        "icon": "./static/images/zt-logo.png",
+        "name": "禅道",
+        "desc": "项目管理平台，在线管理项目进度。",
+        "link": "http://zentao.geespace/"
+      },
+      {
+        "icon": "./static/images/nexus.png",
+        "name": "Nexus",
+        "desc": "内部仓库包管理工具，内网的JAR包管理仓库平台。",
+        "link": "http://nexus.geespace/"
+      },
+      {
+        "icon": "./static/images/mindoc.png",
+        "name": "MinDoc 文档管理系统",
+        "desc": "内部文档管理、协作系统。",
+        "link": "http://doc.geespace"
+      },
+      {
+        "icon": "./static/images/uml.ico",
+        "name": "UML工具-PlantUml",
+        "desc": "PlantUML Server 通过纯文本的方式来生成 UML 图。 ",
+        "link": "http://plantuml.geespace/uml/SyfFKj2rKt3CoKnELR1Io4ZDoSa70000"
+      },
+      {
+        "icon": "./static/images/pass.png",
+        "name": "PASS 租户端",
+        "desc": "企业级DevOps研发平台，Pass 租户端，管理对应应用，域账号登录。",
+        "link": "http://paas-tenant.geespace.corp/"
+      },
+      {
+        "icon": "./static/images/pass.png",
+        "name": "PASS 管理端",
+        "desc": "企业级DevOps研发平台，PASS 管理端，管理员登录使用。",
+        "link": "http://paas-admin.geespace.corp/"
+      },
+      {
+        "icon": "./static/images/tianditu.ico",
+        "name": "天地图 -国家地理信息公共服务平台",
+        "desc": "公司申请的在线地图服务账号：geespace@163.com/GeeSpace1234",
+        "link": "https://www.tianditu.gov.cn/"
+      }
+    ]
+  },
+  "applicationService": {
+    "title": "自研与应用平台",
+    "name": "applicationService",
+    "nav": [
+      {
+        "icon": "./static/images/ppprtk.ico",
+        "name": "PPP-RTK大网 - admin",
+        "desc": "业务运营系统管理平台,大网管理端的开发环境。",
+        "link": "http://bss-admin-frontend-ppp-rtk-dev.geespace.corp/"
+      },
+      {
+        "icon": "./static/images/ppprtk.ico",
+        "name": "PPP-RTK大网 - user",
+        "desc": "业务运营系统用户平台,大网用户端开发环境。",
+        "link": "http://bss-user-frontend-ppp-rtk-dev.geespace.corp/"
+      },
+      {
+        "icon": "./static/images/omini.png",
+        "name": "物联网 OmniCloud",
+        "desc": "物联网开发环境，正式环境合并。",
+        "link": "http://omnicloud-platform-frontend-server.geespace.corp/"
+      },
+      {
+        "icon": "./static/images/logo-icon.png",
+        "name": "手持卫星终端服务平台",
+        "desc": "上合手持卫星终端服务平台。",
+        "link": "http://hst-cloud-ui-hst-cloud-test.geesatcom.corp/"
+      },
+      {
+        "icon": "./static/images/npmscreen.ico",
+        "name": "高精地图实时跟踪演示平台",
+        "desc": "高精地图实时跟踪演示平台，用于高精定位路测可视化。",
+        "link": "http://npmscreen-ppp-rtk-dev.geespace.corp/"
+      },
+      {
+        "icon": "./static/images/tbox.ico",
+        "name": "T-BOX 地理可视化平台",
+        "desc": "T-BOX 地理可视化平台。",
+        "link": "http://tbox-map-frontend-server.geespace.corp/"
+      },
+      {
+        "icon": "./static/images/dalian.ico",
+        "name": "大连演示项目",
+        "desc": "水下平台试验配合船舶信息录取分析系统。",
+        "link": "http://service-crs-media-ng-frontend-server.geespace.corp/"
+      },
+      {
+        "icon": "./static/images/oneocean.ico",
+        "name": "OneOcean ",
+        "desc": "OneOcean 上合航天智慧海洋综合服务平台演示地址 用户名:admin 密码:888888",
+        "link": "http://180.169.235.194:32348/#/login"
+      },{
+        "icon": "./static/images/npmscreen.ico",
+        "name": "九星运输检测平台",
+        "desc": "卫星运输检测平台，用于九星运输监控。 ",
+        "link": "http://geedata.geespace.corp/"
+      },{
+        "icon": "./static/images/npmscreen.ico",
+        "name": "双星运输实时监控",
+        "desc": "双星运输实时监控平台 ",
+        "link": "http://gees-datav.geespace.corp/#/"
+      },{
+        "icon": "./static/images/jiading.png",
+        "name": "嘉定一号卫星监控平台",
+        "desc": "卫星监控平台，用于领克嘉定一号监控。 ",
+        "link": "http://jiading-web-frontend-server.geespace.corp"
+      }
+    ]
+  },
+  "mTools": {
+    "title": "监控工具",
+    "name": "mTools",
+    "nav": [
+      {
+        "icon": "./static/images/evling-grafana.png",
+        "name": "Grafana",
+        "desc": "研发环境基础设施状态监控，星联虚机信息监控展现。",
+        "link": "http://grafana-dev.geespace.corp"
+      },
+      {
+        "icon": "./static/images/Prometheus.ico",
+        "name": "Prometheus",
+        "desc": "研发环境开源监控系统，星联虚机信息监控入口。",
+        "link": "http://prometheus-dev.geespace.corp"
+      },
+      {
+        "icon": "./static/images/alertmanger.ico",
+        "name": "alert",
+        "desc": "星联虚机的告警处理。",
+        "link": "http://alertmanger-dev.geespace.corp/"
+      },
+      {
+        "icon": "./static/images/spring.png",
+        "name": "springadmin",
+        "desc": "物联网微服务监控系统，用户名：geespace 密码：geespace",
+        "link": "http://10.2.8.190:9034/"
+      }
+    ]
+  },
+  "mService": {
+    "title": "中间件服务",
+    "name": "mService",
+    "nav": [
+      {
+        "icon": "./static/images/emq.ico",
+        "name": "Emqx -大网",
+        "desc": "大网 设备的接口中间件监控。",
+        "link": "http://emqx-dashboard-ppp-rtk-dev.geespace.corp/"
+      },
+      {
+        "icon": "./static/images/emq.ico",
+        "name": "Emqx -物联网",
+        "desc": "物联网 设备的接口中间件监控。",
+        "link": "http://10.2.8.190:9028"
+      },
+      {
+        "icon": "./static/images/ambari-logo.png",
+        "name": "Ambari -大数据",
+        "desc": "HDFS，HBASE，FLINK的管理入口。",
+        "link": "http://bigdata-ambari.geespace/"
+      },
+      {
+        "icon": "./static/images/ambari-logo.png",
+        "name": "Ambari -物联网",
+        "desc": "HDFS，HBASE，FLINK的管理入口（暂定）",
+        "link": "http://bigdata-ambari.geespace/"
+      },
+      {
+        "icon": "./static/images/kafdrop.svg",
+        "name": "Kafka监控 -大网",
+        "desc": "消息中间件，目前用于大网。",
+        "link": "http://10.2.8.142:9002/"
+      },
+      {
+        "icon": "./static/images/dol.png",
+        "name": "DolphinScheduler",
+        "desc": "管理计算任务。",
+        "link": "http://dolphinscheduler.geespace/dolphinscheduler/"
+      },
+      {
+        "icon": "./static/images/nacos.png",
+        "name": "Nacos -大网",
+        "desc": "大网 配置中心，管理微服务配置信息。",
+        "link": "http://nacos-server-public-server.geespace.corp/"
+      },
+      {
+        "icon": "./static/images/nacos.png",
+        "name": "Nacos -物联网",
+        "desc": "物联网 配置中心，管理微服务配置信息。",
+        "link": "http://nacos-server-public-server.geespace.corp/"
+      },
+      {
+        "icon": "./static/images/elasticsearch1.ico",
+        "name": "Elasticsearch",
+        "desc": "非数据敏感型业务公共es",
+        "link": "http://elasticsearch-dev.geespace.corp/"
+      },
+      {
+        "icon": "./static/images/Elasticsearch.png",
+        "name": "Elastic head",
+        "desc": "Elasticsearch 查看工具",
+        "link": "http://elasticsearch-head.geespace.corp/"
+      },
+      {
+        "icon": "./static/images/minio.png",
+        "name": "公共MinIO对象存储",
+        "desc": "用户名 admin 密码 ：minioserver@dev",
+        "link": " http://minio-dev.geespace.corp/login"
+      }
+    ]
+  },
+  "ppprtkProd":{
+    "title": "高精定位生产环境",
+    "name": "ppprtkProd",
+    "nav": [
+      {
+        "icon": "./static/images/ppprtk.ico",
+        "name": "高精定位堡垒机",
+        "desc": "高精定位堡垒机。",
+        "link": "https://172.16.102.100/fort/login"
+      },
+      {
+        "icon": "./static/images/ppprtk.ico",
+        "name": "高精定位VPN",
+        "desc": "高精定位VPN。",
+        "link": "https://222.188.82.18:4430/portal/#!/login"
+      },
+      {
+        "icon": "./static/images/ppprtk.ico",
+        "name": "高精定位运维保障平台",
+        "desc": "高精定位运维保障平台.",
+        "link": "https://172.16.102.17:8443/cas/login"
+      }
+    ]
+  },
+  "designPlatform": {
+    "title": "UI设计平台",
+    "name": "applicationService",
+    "nav": [
+      {
+        "icon": "./static/images/lanhu.ico",
+        "name": "蓝湖设计平台",
+        "desc": "蓝湖设计平台。",
+        "link": "https://sso.lanhuapp.com/#/main/home"
+      },
+
+      {
+        "icon": "./static/images/moke.ico",
+        "name": "摹客设计平台",
+        "desc": "摹客设计平台。",
+        "link": "https://user.mockplus.cn/signin?next=https%3A%2F%2Fwww.mockplus.cn%2F&source="
+      }
+    ]
+  }
+}
